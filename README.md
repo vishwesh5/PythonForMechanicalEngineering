@@ -1,7 +1,10 @@
-# PythonForMechanicalEngineering
+# Python For Mechanical Engineering
 Python programs for projects concerning Mechanical Engineering
 
-Programs added so far are:
+## Programs overview
 
-1. *Python program for 2R Robotic Arm Simulator*: Both single and parallel versions have been uploaded.
-2. *Study of effect of velocity and drag coefficient on drag force*
+### 2R Robotic Arm Simulator
+Two programs have been added for simulating 2R Robotic Arm using forward kinematics. The parallel version has been tested on Linux whereas the other one has been tested on Windows and Linux. Sample plot and animation have been added as well.
+
+### Drag Force Study
+Python code to study the effect of velocity and drag coefficients on drag force has been added. Sample result obtained using the code has been added as well.
